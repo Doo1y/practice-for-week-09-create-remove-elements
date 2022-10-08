@@ -1,3 +1,6 @@
+---
+marp: true;
+---
 # Practice: Create and Remove Elements
 
 In this practice, you will create and remove HTML elements from the HTML
